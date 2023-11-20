@@ -11,6 +11,3 @@ As a senior front-end specialist and web designer with 8 years of outstanding ex
  I have full confidence in becoming your steadfast development partner, providing long-term support to bolster your business. 
 Everything is negotiable to ensure a seamless collaboration.
  
-
-Many thanks once again!
-![image](https://github.com/seniorfullstack-dev/seniorfullstack-dev/assets/144765759/b2024347-124c-4df3-a48f-5f360d0baeb3)
