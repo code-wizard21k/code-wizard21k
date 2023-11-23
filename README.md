@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @seniorfullstack-dev 
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning Web3
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @seniorfullstack-dev. 
+- 👀 I’m interested in All stack.
+- 🌱 I’m currently learning rust.
 - 📫 How to reach me ... strikepinchk@gmail.com
 
