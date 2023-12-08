@@ -143,7 +143,7 @@ I'm a senior Frontend engineer with over 5 years of experience specializing in T
       <br>Jenkins
     </td>
     <td align="center" width="96">
-        [<img src="[https://skillicons.dev/icons?i=solidity](https://github.com/seniorfullstack-dev/portfolio_full_stack/blob/modify_layout_dev/1.png)" width="48" height="48" alt="Solidity" />]()
+        <img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/blob/modify_layout_dev/1.png" width="48" height="48" alt="Solidity" />
       <br>Solidity
     </td>
  </tr>
