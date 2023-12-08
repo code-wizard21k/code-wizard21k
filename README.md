@@ -1,10 +1,16 @@
 
-## ⚡ Fun fact
+<h2 align="center">
+👋 Hi there!, I'm Emmanuel Ezekiel 👨‍💻
+</h2> 
 
-- Video games
-- Football
-- Basketball
-- Love Travelling
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="270" />
+
+I'm a senior Frontend engineer with over 5 years of experience specializing in TypeScript, React, Next.js, and React Native. My repositories showcase my passion for building scalable and performant web and mobile applications, leveraging the latest frontend technologies to deliver exceptional user experiences.
+
+🚀 My projects demonstrate my expertise in architecting robust and maintainable codebases, utilizing best practices to ensure code quality and efficiency. I'm committed to staying at the forefront of frontend development, continuously refining my skills to tackle complex challenges and drive innovation.
+
+🌐 I'm enthusiastic about open-source collaboration and welcome opportunities to contribute to impactful projects. Let's connect and explore how we can collaborate to push the boundaries of frontend engineering together!
+
 
 
 <div style="display: inline_block"><br>
@@ -206,17 +212,6 @@ My name is Ivica Batinić and I'm a React Developer from Croatia 🇭🇷
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isBatak&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isBatak&theme=github_dark&utcOffset=8)
-<h2 align="center">
-👋 Hi there!, I'm Emmanuel Ezekiel 👨‍💻
-</h2> 
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="270" />
-
-I'm a senior Frontend engineer with over 5 years of experience specializing in TypeScript, React, Next.js, and React Native. My repositories showcase my passion for building scalable and performant web and mobile applications, leveraging the latest frontend technologies to deliver exceptional user experiences.
-
-🚀 My projects demonstrate my expertise in architecting robust and maintainable codebases, utilizing best practices to ensure code quality and efficiency. I'm committed to staying at the forefront of frontend development, continuously refining my skills to tackle complex challenges and drive innovation.
-
-🌐 I'm enthusiastic about open-source collaboration and welcome opportunities to contribute to impactful projects. Let's connect and explore how we can collaborate to push the boundaries of frontend engineering together!
 
 
 
