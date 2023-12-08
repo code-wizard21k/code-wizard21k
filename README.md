@@ -150,9 +150,11 @@ I'm a senior Frontend engineer with over 5 years of experience specializing in T
 <br><br>
 </div>
 
-   <img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/blob/modify_layout_dev/1.png" width="480" height="480" alt="HackerRank" />
-<h2>Github stats :bar_chart:</h2>
+<h2>HackerRank Certification</h2>
+   <img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/blob/modify_layout_dev/1.png" width="880" height="480" alt="HackerRank" />
 
+   
+<h2>Github stats :bar_chart:</h2>
 
 <!--
 <a href="[https://github.com/whitehorse21?tab=repositories](https://www.hackerrank.com/profile/strikepunchk)"><img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/tree/modify_layout_dev/1.png"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
