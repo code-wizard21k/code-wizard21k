@@ -1,6 +1,6 @@
 
 <h2 align="center">
-👋 Hi there!, I'm Emmanuel Ezekiel 👨‍💻
+👋 Hi there!, I'm KDev 👨‍💻
 </h2> 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="270" />
