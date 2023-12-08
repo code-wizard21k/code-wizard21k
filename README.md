@@ -156,7 +156,7 @@ I'm a senior Frontend engineer with over 5 years of experience specializing in T
 
 
 <!--
-<a href="[https://github.com/whitehorse21?tab=repositories](https://www.hackerrank.com/profile/strikepunchk)"><img src="1.png"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
+<a href="[https://github.com/whitehorse21?tab=repositories](https://www.hackerrank.com/profile/strikepunchk)"><img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/tree/modify_layout_dev/1.png"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
 -->
 
 <p align="center">
