@@ -151,10 +151,13 @@ I'm a senior Frontend engineer with over 5 years of experience specializing in T
 <br><br>
 </div>
 
+
 <h2>Github stats :bar_chart:</h2>
 
 
-
+<!--
+<a href="[https://github.com/whitehorse21?tab=repositories](https://www.hackerrank.com/profile/strikepunchk)"><img src="1.png"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
+-->
 
 <p align="center">
 
