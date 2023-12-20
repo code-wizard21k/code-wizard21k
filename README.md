@@ -7,42 +7,19 @@ Specialize in Front-End Development and have expertise in JavaScript, HTML, CSS 
 Also highly skilled in Back-End frameworks like Node.js, Laravel, and Django.
 Well-versed in Responsive Design, UI/UX Principles, Optimization Techniques.
 
-<h1 align="center">
+<h3 align="center">
 Go confidently in the direction of your dreams. Live the life you have imagined.
 </h1>
 Hello! I know it's challenging at times, but remember, the race to success is not always won by the quickest, but rather those who remain steadfast and undeterred, lighting up their path with the flame of passion, determination, and resilience.
 
-### **1. Don't Fear Failure**
+1. "Whatever the mind can conceive and believe, it can achieve."
+2. "It always seems impossible until it’s done." 
 
-> “Success is not final, failure is not fatal: It is the courage to continue that counts.” - Winston Churchill
+3. "The only limit to our realization of tomorrow will be our doubts of today." -
 
-Every stop or failure is merely an opportunity to learn and grow. If you've stumbled, think of it as a moment to pause and regain your strength for a jump so high that it dwarfs your past attempts.
+4. "There is no substitute for hard work. Never give up. Never stop believing. Never stop fighting." - 
 
-### **2. Persist and Persevere**
-
->“Perseverance is not a long race; it is many short races one after the other.” - Walter Elliot
-
-Persistence is the key, especially when the going gets tough. Remember that breaking through barriers is daunting, but the reward on the other side is well worth it.
-
-### **3. Embrace Challenges**
-
->“Challenges are what make life interesting and overcoming them is what makes life meaningful.” - Joshua J. Marine
-
-Work might be tough and tiring, but remember every challenge you conquer adds a new feather to your cap, a new testimony to your ability.
-
-### **4. Stay Positive**
-
->“Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.” - Helen Keller
-
-A positive mindset is an unbeatable weapon that can conquer even the harshest circumstances. Think positively, believe in yourself, and you'll indeed find a way.
-
-### **5. Celebrate Every Win**
-
->“The more you praise and celebrate your life, the more there is in life to celebrate.” - Oprah Winfrey
-
-Recognize every little achievement, no matter how trivial it might seem. Celebrating small wins will boost your motivation and keep you driven towards your bigger goals.skweotld123
-
-So, stand tall, brace yourself and remember, every new day is an opportunity to start afresh, to learn something new, and to inch a bit closer to your dreams. No matter how long the night, the dawn is inevitable. Keep going!
+5. "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless." 
 ## Skills
 
 -   <b>Frontend</b> : React, Next.js, Angular
