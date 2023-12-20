@@ -14,15 +14,13 @@ I am always excited to meet new individuals who share my enthusiasm for coding a
 
 💯 Confidently in the direction of your dreams. Live the life you have imagined.
 
-I know it's challenging at times, but remember, the race to success is not always won by the quickest, but rather those who remain steadfast and undeterred, 
-lighting up their path with the flame of passion, determination, and resilience.
+I know it's challenging at times, but remember, the race to success is not always won by the quickest, but rather those who 
+remain steadfast and undeterred, lighting up their path with the flame of passion, determination, and resilience.
+
 1. "Whatever the mind can conceive and believe, it can achieve."
 2. "It always seems impossible until it’s done." 
-
 3. "The only limit to our realization of tomorrow will be our doubts of today." -
-
 4. "There is no substitute for hard work. Never give up. Never stop believing. Never stop fighting." - 
-
 5. "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless." 
 
 ## Skills
