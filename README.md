@@ -2,17 +2,17 @@
 <h1 align="center">
   Senior Full-Stack Developer
 </h1>
-<b>🏆As a senior full stack developer, <b>
+<b>🏆As a senior full stack developer, </b>
 I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge. 
 My insatiable curiosity drives me to learn new technologies, while my friendly and approachable nature allows me to build lasting relationships and make valuable connections.
 
-<b>📞Beyond my professional interests, I also value building connections and making friends within the tech community. <b>
+<b>📞Beyond my professional interests, I also value building connections and making friends within the tech community. </b>
 If you share a similar passion for technology and are interested in connecting with me, please feel free to send me a direct message. 
 I am always excited to meet new individuals who share my enthusiasm for coding and are eager to make a positive impact in the world of technology.
 
  If you would like to explore my work further or have any questions, please do not hesitate to reach out. 
 
-💯 <b>Confidently in the direction of your dreams. Live the life you have imagined.<b>
+💯 <b>Confidently in the direction of your dreams. Live the life you have imagined.</b>
 
 I know it's challenging at times, but remember, the race to success is not always won by the quickest, but rather those who 
 remain steadfast and undeterred, lighting up their path with the flame of passion, determination, and resilience.
