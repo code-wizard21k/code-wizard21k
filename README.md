@@ -171,11 +171,6 @@ remain steadfast and undeterred, lighting up their path with the flame of passio
 </div>
 
 <h2>HackerRank Certification</h2>
-<a href="https://www.hackerrank.com/profile/strikepunchk"> 
-  <img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/blob/modify_layout_dev/1.png" width="880" height="480" alt="HackerRank" />
-</a>
-  
+
 
    
-
-
