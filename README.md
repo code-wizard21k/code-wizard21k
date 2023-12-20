@@ -12,7 +12,8 @@ I am always excited to meet new individuals who share my enthusiasm for coding a
 
  If you would like to explore my work further or have any questions, please do not hesitate to reach out. 
 
-💯 confidently in the direction of your dreams. Live the life you have imagined.
+💯 Confidently in the direction of your dreams. Live the life you have imagined.
+I know it's challenging at times, but remember, the race to success is not always won by the quickest, but rather those who remain steadfast and undeterred, lighting up their path with the flame of passion, determination, and resilience.
 1. "Whatever the mind can conceive and believe, it can achieve."
 2. "It always seems impossible until it’s done." 
 
