@@ -10,11 +10,11 @@ Well-versed in Responsive Design, UI/UX Principles, Optimization Techniques.
 ## Skills
 
 -   <b>Frontend</b> : React, Next.js, Angular
--   <b>Backend</b> : Node.js, Laravel, Django
+-   <b>Backend</b> : Node.js, Laravel, Django , Flask
 -   <b>Libraries</b> : Bootstrap, jQuery, Material UI, Ant Design, Tailwind CSS
--   <b>Database</b> : MySQL, MongoDB, PostgreSQL
+-   <b>Database</b> : MySQL, MongoDB, PostgreSQL , Neo4j
 -   <b>Languages</b> : HTML5, CSS3, JavaScript, TypeScript, PHP, Python
-
+-   <b>Special</b> : BlockChain frameworks(Hyperledger fabric) , Chatbot , AWS
 
 
 ![Snake animation](https://github.com/1fabiopereira/1fabiopereira/blob/output/github-contribution-grid-snake.svg)
