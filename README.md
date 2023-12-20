@@ -177,6 +177,6 @@ remain steadfast and undeterred, lighting up their path with the flame of passio
 <h2>Github stats :bar_chart:</h2>
 
 <!--
-<a href="[https://github.com/whitehorse21?tab=repositories](https://www.hackerrank.com/profile/strikepunchk)"><img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/tree/modify_layout_dev/1.png"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
+<a href="https://www.hackerrank.com/profile/strikepunchk"><img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/tree/modify_layout_dev/1.png"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
 -->
 
