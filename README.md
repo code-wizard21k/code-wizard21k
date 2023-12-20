@@ -2,7 +2,7 @@
 <h1 align="center">
   Senior Full-Stack Developer
 </h1>
-🏆As a senior full stack developer🏆, 
+🏆As a senior full stack developer, 
 I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge. 
 My insatiable curiosity drives me to learn new technologies, while my friendly and approachable nature allows me to build lasting relationships and make valuable connections.
 
@@ -12,7 +12,7 @@ I am always excited to meet new individuals who share my enthusiasm for coding a
 
  If you would like to explore my work further or have any questions, please do not hesitate to reach out. 
 
-💯
+💯 confidently in the direction of your dreams. Live the life you have imagined.
 1. "Whatever the mind can conceive and believe, it can achieve."
 2. "It always seems impossible until it’s done." 
 
@@ -21,21 +21,6 @@ I am always excited to meet new individuals who share my enthusiasm for coding a
 4. "There is no substitute for hard work. Never give up. Never stop believing. Never stop fighting." - 
 
 5. "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless." 
-💯
-
-
-Go confidently in the direction of your dreams. Live the life you have imagined.
-
-
-1. "Whatever the mind can conceive and believe, it can achieve."
-2. "It always seems impossible until it’s done." 
-
-3. "The only limit to our realization of tomorrow will be our doubts of today." -
-
-4. "There is no substitute for hard work. Never give up. Never stop believing. Never stop fighting." - 
-
-5. "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless." 
-
 
 ## Skills
 
