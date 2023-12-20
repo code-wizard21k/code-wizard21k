@@ -1,16 +1,19 @@
 
-<h2 align="center">
-👋 Hi there!, I'm KDev 👨‍💻
-</h2> 
+<h1 align="center">
+  Senior Full-Stack Developer
+</h1>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="270" />
+Specialize in Front-End Development and have expertise in JavaScript, HTML, CSS and popular frameworks like React and Angular.
+Also highly skilled in Back-End frameworks like Node.js, Laravel, and Django.
+Well-versed in Responsive Design, UI/UX Principles, Optimization Techniques.
 
-I'm a senior Frontend engineer with over 5 years of experience specializing in TypeScript, React, Next.js, and React Native. My repositories showcase my passion for building scalable and performant web and mobile applications, leveraging the latest frontend technologies to deliver exceptional user experiences.
+## Skills
 
-🚀 My projects demonstrate my expertise in architecting robust and maintainable codebases, utilizing best practices to ensure code quality and efficiency. I'm committed to staying at the forefront of frontend development, continuously refining my skills to tackle complex challenges and drive innovation.
-
-🌐 I'm enthusiastic about open-source collaboration and welcome opportunities to contribute to impactful projects. Let's connect and explore how we can collaborate to push the boundaries of frontend engineering together!
-
+-   <b>Frontend</b> : React, Next.js, Angular
+-   <b>Backend</b> : Node.js, Laravel, Django
+-   <b>Libraries</b> : Bootstrap, jQuery, Material UI, Ant Design, Tailwind CSS
+-   <b>Database</b> : MySQL, MongoDB, PostgreSQL
+-   <b>Languages</b> : HTML5, CSS3, JavaScript, TypeScript, PHP, Python
 
 
 
@@ -184,12 +187,3 @@ I'm a senior Frontend engineer with over 5 years of experience specializing in T
 <a href="https://github.com/whitehorse21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=whitehorse21&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@whitehorse21's trophy stats"/></a>
 </p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
-### Hi there 👋
-My name is Ivica Batinić and I'm a React Developer from Croatia 🇭🇷
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isBatak&theme=github_dark)
