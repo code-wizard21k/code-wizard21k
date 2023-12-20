@@ -7,6 +7,18 @@ Specialize in Front-End Development and have expertise in JavaScript, HTML, CSS 
 Also highly skilled in Back-End frameworks like Node.js, Laravel, and Django.
 Well-versed in Responsive Design, UI/UX Principles, Optimization Techniques.
 
+## Skills
+
+-   <b>Frontend</b> : React, Next.js, Angular
+-   <b>Backend</b> : Node.js, Laravel, Django , Flask
+-   <b>Libraries</b> : Bootstrap, jQuery, Material UI, Ant Design, Tailwind CSS
+-   <b>Database</b> : MySQL, MongoDB, PostgreSQL , Neo4j
+-   <b>Languages</b> : HTML5, CSS3, JavaScript, TypeScript, PHP, Python
+-   <b>Special</b> : BlockChain frameworks(Hyperledger fabric) , Chatbot , AWS
+
+
+![Snake animation](https://github.com/1fabiopereira/1fabiopereira/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="center">
 Go confidently in the direction of your dreams. Live the life you have imagined.
 </h1>
@@ -20,17 +32,6 @@ Hello! I know it's challenging at times, but remember, the race to success is no
 4. "There is no substitute for hard work. Never give up. Never stop believing. Never stop fighting." - 
 
 5. "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless." 
-## Skills
-
--   <b>Frontend</b> : React, Next.js, Angular
--   <b>Backend</b> : Node.js, Laravel, Django , Flask
--   <b>Libraries</b> : Bootstrap, jQuery, Material UI, Ant Design, Tailwind CSS
--   <b>Database</b> : MySQL, MongoDB, PostgreSQL , Neo4j
--   <b>Languages</b> : HTML5, CSS3, JavaScript, TypeScript, PHP, Python
--   <b>Special</b> : BlockChain frameworks(Hyperledger fabric) , Chatbot , AWS
-
-
-![Snake animation](https://github.com/1fabiopereira/1fabiopereira/blob/output/github-contribution-grid-snake.svg)
 
 <h2>My stack :man_technologist:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
