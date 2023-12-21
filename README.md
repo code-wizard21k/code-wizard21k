@@ -8,7 +8,6 @@ My insatiable curiosity drives me to learn new technologies, while my friendly a
 
 📞Beyond my professional interests, I also value building connections and making friends within the tech community. 
 If you share a similar passion for technology and are interested in connecting with me, please feel free to send me a direct message. 
-I am always excited to meet new individuals who share my enthusiasm for coding and are eager to make a positive impact in the world of technology.
 
  If you would like to explore my work further or have any questions, please do not hesitate to reach out. 
 
