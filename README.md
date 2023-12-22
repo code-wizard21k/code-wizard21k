@@ -27,17 +27,22 @@ remain steadfast and undeterred, lighting up their path with the flame of passio
 #### 🔥Major Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,sass,js,jquery,ts,threejs,php,py,solidity,swift" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,sass,js,ts,threejs,php,py,solidity,swift" />
   </div>
 
 <!-- Libraries and Frameworks -->
 
-#### ⛓️Frameworks and Skills:
+#### ⛓️Frontend Frameworks and Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,svelte,nestjs,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,nestjs,flutter,bootstrap,tailwind,materialui" />
   </div>
 
+#### ⛓️Backend Frameworks and Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,flutter" />
+  </div>
 <!-- Databases -->
 
 #### 🧵Database & Skills:
@@ -51,9 +56,9 @@ remain steadfast and undeterred, lighting up their path with the flame of passio
 #### ⚡️Other Essentials:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,ai,bots" />
+    <img src="https://skillicons.dev/icons?i=github,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,ai,bots" />
   </div>
-</div>![Uploading image.png…]()
+</div>
 
 
 <h2>HackerRank Certification</h2>
