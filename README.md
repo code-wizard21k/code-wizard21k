@@ -2,6 +2,8 @@
 <h1 align="center">
   Senior Full-Stack Developer
 </h1>
+<p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>![image](https://github.com/kdev999/kdev999/assets/144765759/e037f57a-9207-4846-acb3-e7e29c8c8811)
+
 🏆As a senior full stack developer,
 I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge. 
 My insatiable curiosity drives me to learn new technologies, while my friendly and approachable nature allows me to build lasting relationships and make valuable connections.
@@ -30,6 +32,38 @@ remain steadfast and undeterred, lighting up their path with the flame of passio
 -   <b>Database</b> : MySQL, MongoDB, PostgreSQL , Neo4j
 -   <b>Languages</b> : HTML5, CSS3, JavaScript, TypeScript, PHP, Python
 -   <b>Special</b> : BlockChain frameworks(Hyperledger fabric) , Chatbot , AWS
+<!-- Languages -->
+
+#### 🔥Major Programming Languages:
+
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,sass,js,jquery,ts,threejs,php,py,dotnet,go,ruby,solidity,java,swift,kotlin" />
+  </div>
+
+<!-- Libraries and Frameworks -->
+
+#### ⛓️Frameworks and Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,symfony,rails,svelte,rust,nestjs,flutter,hibernate,spring,figma,webflow,wordpress,pytorch,tensorflow" />
+  </div>
+
+<!-- Databases -->
+
+#### 🧵Database & Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,supabase,redis,postman" />
+  </div>
+
+<!-- Tools and Technologies -->
+
+#### ⚡️Other Essentials:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,ai,bots" />
+  </div>
+</div>![Uploading image.png…]()
 
 
 ![Snake animation](https://github.com/1fabiopereira/1fabiopereira/blob/output/github-contribution-grid-snake.svg)
