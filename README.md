@@ -9,19 +9,11 @@ My insatiable curiosity drives me to learn new technologies, while my friendly a
 
 📞Beyond my professional interests, I also value building connections and making friends within the tech community. 
 If you share a similar passion for technology and are interested in connecting with me, please feel free to send me a direct message. 
+ 
 
- If you would like to explore my work further or have any questions, please do not hesitate to reach out. 
+🚀 <b>Confidently in the direction of your dreams. Live the life you have imagined.</b>
 
-💯 <b>Confidently in the direction of your dreams. Live the life you have imagined.</b>
-
-I know it's challenging at times, but remember, the race to success is not always won by the quickest, but rather those who 
-remain steadfast and undeterred, lighting up their path with the flame of passion, determination, and resilience.
-
-1. "Whatever the mind can conceive and believe, it can achieve."
-2. "It always seems impossible until it’s done." 
-3. "The only limit to our realization of tomorrow will be our doubts of today." -
-4. "There is no substitute for hard work. Never give up. Never stop believing. Never stop fighting." - 
-5. "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless." 
+I know it's challenging at times, but remember, the race to success is not always won by the quickest, but rather those who  remain steadfast and undeterred, lighting up their path with the flame of passion, determination, and resilience.
 
 
 #### 🔥Major Programming Languages:
