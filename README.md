@@ -23,20 +23,11 @@ remain steadfast and undeterred, lighting up their path with the flame of passio
 4. "There is no substitute for hard work. Never give up. Never stop believing. Never stop fighting." - 
 5. "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless." 
 
-## Skills
-
--   <b>Frontend</b> : React, Next.js, Angular
--   <b>Backend</b> : Node.js, Laravel, Django , Flask
--   <b>Libraries</b> : Bootstrap, jQuery, Material UI, Ant Design, Tailwind CSS
--   <b>Database</b> : MySQL, MongoDB, PostgreSQL , Neo4j
--   <b>Languages</b> : HTML5, CSS3, JavaScript, TypeScript, PHP, Python
--   <b>Special</b> : BlockChain frameworks(Hyperledger fabric) , Chatbot , AWS
-<!-- Languages -->
 
 #### 🔥Major Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,sass,js,jquery,ts,threejs,php,py,dotnet,go,ruby,solidity,java,swift,kotlin" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,sass,js,jquery,ts,threejs,php,py,solidity,swift" />
   </div>
 
 <!-- Libraries and Frameworks -->
@@ -44,7 +35,7 @@ remain steadfast and undeterred, lighting up their path with the flame of passio
 #### ⛓️Frameworks and Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,symfony,rails,svelte,rust,nestjs,flutter,hibernate,spring,figma,webflow,wordpress,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,svelte,nestjs,flutter" />
   </div>
 
 <!-- Databases -->
@@ -60,7 +51,7 @@ remain steadfast and undeterred, lighting up their path with the flame of passio
 #### ⚡️Other Essentials:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,ai,bots" />
+    <img src="https://skillicons.dev/icons?i=github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,ai,bots" />
   </div>
 </div>![Uploading image.png…]()
 
