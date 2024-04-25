@@ -1,6 +1,6 @@
 
 <h1 color='red' align="center">
-  Senior Full-Stack Developer
+  Senior Frontend Developer
 </h1>
 
 🏆As a senior full stack developer,
