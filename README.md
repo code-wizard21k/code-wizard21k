@@ -3,7 +3,7 @@
   Senior Frontend Developer
 </h1>
 
-🏆As a senior full stack developer,
+🏆As a senior Frontend  stack developer,
 I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge. 
 My insatiable curiosity drives me to learn new technologies, while my friendly and approachable nature allows me to build lasting relationships and make valuable connections.
 
@@ -30,18 +30,7 @@ I know it's challenging at times, but remember, the race to success is not alway
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,nestjs,flutter,bootstrap,tailwind,materialui" />
   </div>
 
-#### ⛓️Backend Frameworks and Skills:
 
-  <div align="left">      
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,flutter" />
-  </div>
-<!-- Databases -->
-
-#### 🧵Database & Skills:
-
-  <div align="left">      
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,supabase,redis,postman" />
-  </div>
 
 <!-- Tools and Technologies -->
 
