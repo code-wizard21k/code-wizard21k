@@ -1,9 +1,9 @@
 
 <h1 color='red' align="center">
-  Senior Frontend Developer
+  Senior FullStack  Developer
 </h1>
 
-🏆As a senior Frontend  stack developer,
+🏆As a senior Full  stack developer,
 I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge. 
 My insatiable curiosity drives me to learn new technologies, while my friendly and approachable nature allows me to build lasting relationships and make valuable connections.
 
