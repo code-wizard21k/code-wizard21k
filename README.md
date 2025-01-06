@@ -1,11 +1,12 @@
 
 <h1 color='red' align="center">
-  Senior FullStack  Developer
+  Senior BlockChain  Developer
 </h1>
 
-🏆As a senior Full  stack developer,
+🏆As a senior Full  stack Blockchain developer,
 I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge. 
-My insatiable curiosity drives me to learn new technologies, while my friendly and approachable nature allows me to build lasting relationships and make valuable connections.
+I’m a passionate Blockchain Project Manager with a proven track record in organizing and leading teams to develop cutting-edge solutions in the Web3 and metaverse spaces. With a focus on gaming and immersive digital experiences, I thrive on turning visionary ideas into tangible realities.![image]
+
 
 📞Beyond my professional interests, I also value building connections and making friends within the tech community. 
 If you share a similar passion for technology and are interested in connecting with me, please feel free to send me a direct message. 
