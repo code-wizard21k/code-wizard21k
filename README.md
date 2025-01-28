@@ -3,9 +3,7 @@
   Senior C# developer
 </h1>
 
-🏆As a senior Full  stack Blockchain developer,
-I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge. 
-I’m a passionate Blockchain Project Manager with a proven track record in organizing and leading teams to develop cutting-edge solutions in the Web3 and metaverse spaces. With a focus on gaming and immersive digital experiences, I thrive on turning visionary ideas into tangible realities.![image]
+
 
 
 📞Beyond my professional interests, I also value building connections and making friends within the tech community. 
