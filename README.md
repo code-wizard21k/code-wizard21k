@@ -1,6 +1,6 @@
 
 <h1 color='red' align="center">
-  Senior BlockChain  Developer
+  Senior C# developer
 </h1>
 
 🏆As a senior Full  stack Blockchain developer,
