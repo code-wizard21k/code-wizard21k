@@ -1,6 +1,6 @@
 
 <h1 color='red' align="center">
-  Senior C# developer
+ Senior .NET AI Engineer| Azure AI & Deepseek | Reactr
 </h1>
 
 
@@ -12,7 +12,11 @@ If you share a similar passion for technology and are interested in connecting w
 
 🚀 <b>Confidently in the direction of your dreams. Live the life you have imagined.</b>
 
-I know it's challenging at times, but remember, the race to success is not always won by the quickest, but rather those who  remain steadfast and undeterred, lighting up their path with the flame of passion, determination, and resilience.
+Senior Software Engineer & Technology Lead with 9 years of comprehensive experience in designing and implementing AI-powered web applications for startups and Fortune 500 companies. Expertise in full-stack development utilizing .NET (Core & Framework), Angular, React, and ASP.NET MVC, with a strong focus on scalable, maintainable solutions. Skilled in cloud-based architectures on Microsoft Azure, including Azure AI and Cognitive Services, as well as deep learning integrations with Deepseek technology.
+
+Proficient in C#, TypeScript, JavaScript, and RESTful API development, with extensive experience in database management using Microsoft SQL Server and PostgreSQL. Adept at leveraging microservices architecture, containerization (Docker, Kubernetes), and CI/CD pipelines to optimize deployment workflows.
+
+Recently transitioned to Deepseek AI platform, applying my backend development expertise to create innovative, AI-driven enterprise solutions. Committed to utilizing cutting-edge technologies and agile methodologies to deliver high-performance, scalable, and secure applications that meet complex business requirements.
 
 
 #### 🔥Major Programming Languages:
